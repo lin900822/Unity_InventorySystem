@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{25EF0060-A570-6E8A-9F6D-9286523C2053}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UserInterface.cs">
+    <Files>
+      <File FileName="Assets/Scriptable Objects/Items/Scripts/ItemObject.cs" Line="37" Column="1" />
+      <File FileName="Assets/Scriptable Objects/Items/Scripts/DefaultObject.cs" />
+      <File FileName="Assets/Scriptable Objects/Items/Scripts/FoodObject.cs" />
+      <File FileName="Assets/Scriptable Objects/Items/Scripts/EquipmentObject.cs" />
+      <File FileName="Assets/Scriptable Objects/Inventory/Scripts/InventoryObject.cs" />
+      <File FileName="Assets/Player.cs" />
+      <File FileName="Assets/UserInterface.cs" Line="1" Column="1" />
+      <File FileName="Assets/DynamicInterface.cs" />
+      <File FileName="Assets/StaticInterface.cs" />
+      <File FileName="Assets/Scriptable Objects/Items/Scripts/ItemDatabaseObject.cs" />
+      <File FileName="Assets/GroundItem.cs" />
+      <File FileName="Assets/Billboard.cs" />
+      <File FileName="Assets/ModifiableInt.cs" />
+      <File FileName="Assets/IModifier.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="380c897d-1183-40ee-8584-b776447616e5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
